@@ -1,5 +1,5 @@
 # Custom Countdown
 ----------
-### Count down to any event
+### Count down to any event in the future
 
-- Click [here](https://) for demo
+### Click [here](https://custom-countdown-one.vercel.app) for demo
